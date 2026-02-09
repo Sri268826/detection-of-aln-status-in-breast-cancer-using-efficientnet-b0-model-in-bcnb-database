@@ -1,0 +1,12 @@
+# Python Version: 3.13.0 (tested and working)
+# Recommended Python versions: 3.9 - 3.13
+# Note: TensorFlow officially supports Python 3.9-3.12, but 3.13 works in practice
+
+# Minimal requirements for app.py
+Flask==3.1.2
+tensorflow==2.20.0rc0
+keras==3.10.0
+numpy==2.2.6
+scikit-learn==1.7.2
+joblib==1.5.2
+Pillow==11.3.0
